@@ -1,12 +1,12 @@
 import React from 'react';
-import ReadData from './component/ReadData'
+import Home from './component/Home'
 
 
 function App() {
   return (
     <div >
       
-   <ReadData/>
+   <Home/>
       
     </div>
   );
